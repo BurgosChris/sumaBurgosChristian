@@ -15,7 +15,7 @@ public class BurgosSuma {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("soy chistian");
+        System.out.println(" soy chistian== mentiroso tu eres gary :) ");
         // TODO code application logic here
     }
     
